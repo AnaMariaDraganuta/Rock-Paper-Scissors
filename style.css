@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+}
+
+.players{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.player{
+    border: 2px solid ;
+    width: 15rem;
+    height: 6rem;
+    border-radius: 50px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+#result{
+    border: 2px solid ;
+    width: 15rem;
+    height: 6rem;
+    border-radius: 25px;
+    align-items: center;
+    justify-content: space-evenly;
+    display: flex;
+    margin: auto;
+    margin-top: 17px;
+}
+.button{
+    text-align: center;
+    margin-top: 15px;
+
+}
